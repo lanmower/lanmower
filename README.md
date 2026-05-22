@@ -1,83 +1,37 @@
-# lanmower 🌐
+# lanmower
 
-> Building the future of distributed systems | P2P networking • Blockchain • Hyperswarm ecosystem
+Building multi-agent AI tooling + P2P distributed systems under [@AnEntrypoint](https://github.com/AnEntrypoint).
 
-## About Me
+Two intersecting stacks: a peer-to-peer infrastructure layer on [Hyperswarm](https://github.com/holepunchto), and an AI-agent runtime layer — `plugkit`, `gm`, `agentgui`, ACP/MCP bridges, Claude tooling — that lets coding agents collaborate across models and protocols.
 
-I'm a full-stack developer passionate about **peer-to-peer systems**, **distributed computing**, and **blockchain technology**. With over 8,600 contributions in the last year, I actively work on projects that push the boundaries of decentralized networks and real-time collaboration.
+🌐 **Portfolio:** <https://anentrypoint.github.io/lanmower/>
+🏢 **Org:** <https://github.com/AnEntrypoint>
 
-## 🎯 Current Focus
+## Featured
 
-- **[Hyperfy](https://github.com/lanmower/hyperfy)** - A world-building platform for decentralized metaverse experiences
-- **P2P Networking** - Building robust distributed systems using Hypercore and Hyperswarm
-- **Blockchain Development** - Creating performant blockchain solutions with JavaScript
-- **System Architecture** - Designing scalable, fault-tolerant infrastructure
+| Project | What it is |
+| --- | --- |
+| **[agentgui](https://github.com/AnEntrypoint/agentgui)** | Multi-agent GUI for AI coding assistants (Claude Code, Gemini CLI, OpenCode & more) |
+| **[gm](https://github.com/AnEntrypoint/gm)** | State-machine discipline for LLM coding agents |
+| **[247420](https://github.com/AnEntrypoint/247420)** | 247420 application |
+| **[zellous](https://github.com/AnEntrypoint/zellous)** | Production-ready push-to-talk with Opus codec, dynamic rooms |
+| **[acptoapi](https://github.com/AnEntrypoint/acptoapi)** | OpenAI-compatible HTTP facade over ACP |
+| **[ccsniff](https://github.com/AnEntrypoint/ccsniff)** | Claude Code JSONL → structured Node.js events |
+| **[codebasesearch](https://github.com/AnEntrypoint/codebasesearch)** | Fast codebase search for AI agents |
+| **[bungraph](https://github.com/AnEntrypoint/bungraph)** | Temporal context graph on libsql + ACP |
+| **[flatspace](https://github.com/AnEntrypoint/flatspace)** | Site framework |
+| **[freddie](https://github.com/AnEntrypoint/freddie)** | 🕺 |
+| **[rs-codeinsight](https://github.com/AnEntrypoint/rs-codeinsight)** | Tree-sitter codebase analyzer for AI |
+| **[plugsdk](https://github.com/AnEntrypoint/plugsdk)** | Universal Plugin SDK |
 
-## 🛠️ Tech Stack
+## Focus
 
-**Languages:** JavaScript • TypeScript • C++ • Shell • Python
-**Specialties:** P2P Systems • Distributed Consensus • Real-time Data Sync • Network Protocols
-**Frameworks & Tools:** Node.js • Hypercore • Hyperswarm • EOSIO • Vite
+`AI agents` · `ACP / MCP` · `P2P` · `Hyperswarm` · `Blockchain` · `Distributed systems`
 
-## 📌 Featured Projects
+## Languages
 
-### [ChakraChain](https://github.com/lanmower/chakrachain) ⭐ 8
-A high-performance blockchain implementation using Hypercore and Hyperswarm for peer-to-peer communications. Demonstrates advanced concepts in distributed consensus and P2P networking.
-
-### [FreedomFirst](https://github.com/lanmower/freedomfirst) ⭐ 5
-A complete EOSIO network deployment showcasing blockchain infrastructure setup and configuration at scale.
-
-### [Hyper-Relay](https://github.com/lanmower/hyper-relay) ⭐ 4
-TCP relay and proxy implementation for Hyperswarm networks. Critical infrastructure for enabling cross-network communication in distributed systems.
-
-### [Hyperfy](https://github.com/lanmower/hyperfy) 🚀 (In Active Development)
-Revolutionary world-building platform for creating decentralized, collaborative 3D experiences. Currently in active development with multiple daily commits.
-
-### [Keyringer](https://github.com/lanmower/keyringer)
-Hierarchical deterministic key management with P2P distribution. Enterprise-grade security for distributed server infrastructure.
-
-### [ESP-IDF-Link](https://github.com/lanmower/esp-idf-link) ⭐ 3
-GitHub Action for ESP32 CI pipeline with Ableton Link app integration. Bridges embedded systems with modern music technology.
-
-## 📊 Quick Stats
-
-- **8,636** contributions in the last year
-- **151** public repositories
-- **25** followers
-- **30** repositories starred
-- **Highly active** developer with consistent daily contributions
-
-## 🌟 What Drives Me
-
-I'm fascinated by the intersection of:
-- **Decentralization** - Moving away from centralized control
-- **Real-time Collaboration** - Building systems where users can work together seamlessly
-- **Network Resilience** - Creating systems that work even when parts of the network fail
-- **Developer Experience** - Making complex distributed systems accessible
-
-## 🔗 Connect With Me
-
-- **GitHub:** [@lanmower](https://github.com/lanmower)
-- **Twitter/X:** [@mclanmower](https://x.com/mclanmower)
-- **Email:** Check GitHub profile
-
-## 🎓 Learning & Contributions
-
-I'm actively contributing to the distributed systems ecosystem and always open to:
-- Collaborating on P2P networking projects
-- Discussing blockchain architecture
-- Contributing to Hypercore/Hyperswarm ecosystem
-- Building the next generation of decentralized applications
-
-## 📈 Recent Activity
-
-Actively developing and maintaining multiple projects with a focus on:
-- Improving Hyperfy world-building capabilities
-- Enhancing P2P protocol implementations
-- Building developer tools for the Hyperswarm ecosystem
-- Contributing to ecosystem growth
+JavaScript · TypeScript · Rust · C++ · Python · PHP
 
 ---
 
-**Last Updated:** 2026
-*Built with ❤️ on distributed networks*
+*Building since 2011. Most things here are intentionally weird — see the [portfolio](https://anentrypoint.github.io/lanmower/) for the curated set, or the [AnEntrypoint org](https://github.com/AnEntrypoint) for the full body of work.*
